@@ -6,4 +6,3 @@ Repositório utilizado em um trabalho da disciplina de Gerência de Configuraç�
 - Criação de issues, reações, comentários com foco em solução e revisão
 - Revisão em pares
 - Pull requests, resolução de conflitos
-- Resolução de conflitos
